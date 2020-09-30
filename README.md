@@ -1,2 +1,2 @@
-# A-simple-html-personal-website
-First Try of a simple website
+# Personal-Website
+A simple personal Website
